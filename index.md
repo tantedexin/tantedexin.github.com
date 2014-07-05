@@ -1,3 +1,5 @@
 # <marquee> 胡茜茜是吃货 </marquee>
 
-![alt Huxixi](./huxixi.jpg)
+![Huxixi](./1.jpg)
+
+![Huxixi](./2.jpg)
